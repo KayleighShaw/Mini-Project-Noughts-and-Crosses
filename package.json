@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "cowsay": "^1.1.1",
+    "eslint": "^7.27.0",
+    "eslint-plugin-jest": "^24.3.6",
+    "fortune": "^5.5.17"
+  },
+  "name": "skeleton",
+  "version": "1.0.0",
+  "description": "\"noughts and crosses\"",
+  "main": "academy.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
